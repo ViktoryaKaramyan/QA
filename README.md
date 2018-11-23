@@ -1,2 +1,0 @@
-# QA
-Welcome QA World!
